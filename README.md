@@ -10,7 +10,8 @@ The course is offered for FREE on Scrimba by Bob Ziroll [Learn React](https://sc
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
-  - [Built with](#built-with) -[Process](#process)
+  - [Built with](#built-with) 
+  -[Process](#process)
 - [Author](#author)
 
 ## Overview
