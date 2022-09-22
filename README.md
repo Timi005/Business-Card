@@ -29,8 +29,8 @@ Requirements : -
 
 ### Links
 
-- Solution URL: [GitHub Link]()
-- Live Site URL: [Netlify Deploy]()
+- Solution URL: [GitHub Link](https://github.com/Timi005/Business-Card.git)
+- Live Site URL: [Netlify Deploy](https://comfy-pasca-8b9e77.netlify.app/)
 
 ### Built with
 
@@ -53,3 +53,4 @@ Requirements : -
 ## Author
 
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Timi005)
+
